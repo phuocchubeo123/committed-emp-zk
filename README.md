@@ -1,3 +1,9 @@
+# Adding Polynomial Commitment to Wolverine
+
+I checked the source code of VOLE-PSI and I think they use Silent-OT from OsuCrypto. However, I want to explore the possibility to use Wolverine instead. 
+I will try to merge Rust code in this project first.
+
+
 # EMP-zk  
 ![arm](https://github.com/emp-toolkit/emp-zk/workflows/arm/badge.svg)
 ![x86](https://github.com/emp-toolkit/emp-zk/workflows/x86/badge.svg)
